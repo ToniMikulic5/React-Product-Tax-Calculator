@@ -1,4 +1,4 @@
-React Product Tax Calculator
+React Product Tax Calculator:
 Ova aplikacija omogućava pregled, pretragu i dodavanje proizvoda s njihovim cijenama, te izračunavanje cijene proizvoda s uključenim porezom (tax).
 
 Opis funkcionalnosti:
